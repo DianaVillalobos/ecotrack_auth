@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311247464480",
+    "project_id": "ecotrack-utez-dmi-diana",
+    "storage_bucket": "ecotrack-utez-dmi-diana.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311247464480:android:fad1f9763d431034043445",
+        "android_client_info": {
+          "package_name": "com.example.ecotrack_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB77Mq9YT_S-C1jrkBUR0egO93yO1R42rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
